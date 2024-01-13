@@ -1,0 +1,129 @@
+
+	.text-head2{
+		margin-left: 22px;
+	}
+	.text-header{
+		display: flex;
+		color: #ACACAC;
+		font-size: 20px;
+		font-weight: 500; 
+		margin-top: -40px;
+	}
+	.header-images{
+		margin-top: -330px;
+		margin-left: 600px;
+		height: 540px;
+	}
+	.head-btn{
+		color: #fff;
+		text-decoration: none;
+		font-size: 24px;
+		font-weight: 500;
+		padding: 30px;
+		margin-top: 20px;
+		background-color: #82BB81;
+		padding: 20px 30px;
+		margin-top: 38px;
+		transition: background-color 0.3s linear;
+	}
+	.subtitle2{
+		font-weight: 600;
+		font-size: 29px;
+		color: #000;
+		width:568px;
+		height:122px;
+		font-family: montserrat;
+		margin-bottom: 58px;
+	}
+	.title{
+		font-size: 46px;
+		font-weight: 700;
+		color: #fff;
+		margin-top: 61px;
+	}
+	.subtitle{
+		font-size: 24px;
+		color: #fff;
+		font-weight: 700;
+		margin-top: 65px;
+	}
+	.a:hover{
+		color: #82BB81;
+	}
+	.img222{
+		height: 540px;
+	}
+	.header-menu{
+		display: flex;
+	}
+	.menu-text{
+		margin-top: 75px;
+		margin-left: 50px;
+		font-weight: 700;
+		display: flex;
+	}
+	.a{
+		color: #fff;
+		font-size: 48px;
+		text-decoration: none;
+		margin-right: 100px;
+		transition: color 0.3s linear;
+		margin-top: 50px;
+
+	}
+	.header-text{
+		font-size: 42px;
+		color: #82BB81;
+		margin-top: 68px;
+		font-family: montserrat;
+		font-weight: 700;
+	}
+	.card-text{
+		margin-top: 30px;
+	}
+	.logo{
+		margin-top: 61px;
+		padding: 0px 10px;
+		height: 160px;
+	}
+	.header{
+		background: #6699ff;
+		height: 100vh;
+		width: 1240px;
+		background-repeat: no-repeat;
+		background-size: cover;	
+		align-items: center;	
+	}
+
+	.btn{
+		margin-top: 700px;
+		margin-left: 310px;
+	}
+	.btn1{
+		text-decoration: none;
+		font-size: 48px;
+		color: #fff;
+	}
+	.header-logo{
+		margin-left: 28px;
+	}
+	.btn1{
+		color: #0000ff;
+		text-decoration: none;
+		font-size: 58px;
+		font-weight: 500;
+		
+		background-color: #ffff00;
+		padding: 10px 20px;
+		margin-top: 50%;
+		margin-left: 3%;
+		transition: background-color 0.3s linear;
+	}
+	.btn1:hover{
+		background-color: #336699;
+	}
+	.ds{
+		height: 110px;
+		margin-left: 353px;
+		margin-top: 89px;
+	}
